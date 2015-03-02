@@ -1,5 +1,6 @@
 # WCF - RegistryQuestion Plugin
 
+# This Project is not really done or even close to be running
 This plugin adds selfmade questions at registry page to an WCF1 (Woltlab Community Framework) driven site like the Woltlab Burning Board Lite.
 
 You can use the buildPackage.sh to create an installable tar package for any wcf driven application.
